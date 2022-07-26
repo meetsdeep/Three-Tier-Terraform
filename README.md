@@ -61,8 +61,7 @@ Follow the below instructiosn to deploy infrastructure using this code:
     `terraform plan` (Verify the plan)
     `terraform apply` (Enter yes when asked whether to deploy or not)
 
-## Code directory structure
-![enter image description here]()
+
 
 ## Areas of improvement
 - This code uses a hardcoded password which should be fetched from a credentials manager like Hashicord Vault or AWS secret manager
